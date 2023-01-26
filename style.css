@@ -15,7 +15,7 @@ body{
     transform: rotate(-30deg)scale(2.5);
 
 }
-.orange, .white, .green{
+.orange, .white, .Green{
 
     height: 33.33%;
     width: 100%;
@@ -31,7 +31,7 @@ body{
     align-items: center;
     justify-content: center;
 }
-.green{
+.Green{
     background: #138808;
 
 }
